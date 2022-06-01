@@ -1,0 +1,87 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Making a simple electric switch</title>
+  <metadata>
+  <md:content-id>m20112</md:content-id><md:title>Making a simple electric switch</md:title>
+  <md:abstract/>
+  <md:uuid>322fca5c-2870-435f-8c0a-1e4cae21269d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id14763814">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id14763814">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id15480260">
+      <title>Grade 4</title>
+      <para id="para-id15480260">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16298825">
+      <title>ENERGY AND CHANGE</title>
+      <para id="para-id16298825">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7554293">
+      <title>Module 34</title>
+      <para id="para-id7554293">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11094894">
+      <title>MAKING A SIMPLE ELECTRIC SWITCH</title>
+      <section id="id15145018">
+        <title>Activity:</title>
+        <para id="para-id15145018">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id14768955">
+        <title>To make a simple electric switch </title>
+        <para id="para-id14768955">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id12067436">
+        <title>[LO 3.2]</title>
+        <figure id="id15149595">
+          <media id="id15149595_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-362b.png" id="id15149595__onlineimage" height="257" width="633"/>
+          </media>
+        </figure>
+        <para id="id15163699">You will need:</para>
+        <para id="id16118361"> A small block of wood: 8 cm x 4 cm x 1cm</para>
+        <para id="id16118366"> A paper clip</para>
+        <para id="id15477739"> Two drawing pins</para>
+        <para id="id15522335"> Three 25 cm lengths of plastic-coated wire</para>
+        <para id="id16990073"> A 4,5 volt light bulb in a socket</para>
+        <para id="id16087735"> A 4,5 volt battery</para>
+        <para id="id16861744"> A screwdriver</para>
+        <list id="id16454824" list-type="enumerated" number-style="arabic">
+          <item>Attach a length of wire to each drawing pin. Push one drawing pin into the flat surface of the wooden block. Push the second drawing pin through the eye of the paper clip and also into the block of wood. The two drawing pins should be approximately 1 cm apart.</item>
+          <item>Be sure to keep the paper clip in position with the drawing pin, but in such a manner that it can be swivelled to touch the second drawing pin. This is the switch.</item>
+          <item>Test the switch by attaching the free end of the one length of wire to one end of the battery and connecting the third length of wire to the other end of the battery and the socket of the light bulb. </item>
+          <item><figure id="id16802164"><media id="id16802164_media" alt=""><image mime-type="image/png" src="../../media/graphics2-a3c8.png" id="id16802164__onlineimage" height="244" width="267"/></media></figure>Connect the free end of the wire of the switch to the free screw of the light socket.</item>
+          <item>If you swivel the paper clip to touch both drawing pins, the light bulb will glow. When you swivel the paper clip away from the second drawing pin, the light will go out.</item>
+        </list>
+        <para id="id16701869">Remember this: never touch bare electric wires!</para>
+        <para id="id16701874">Use red to colour in everything that is operated by means of electricity.</para>
+        <figure id="id16582480">
+          <media id="id16582480_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-fd94.png" id="id16582480__onlineimage" height="614" width="634"/>
+          </media>
+        </figure>
+      </section>
+    </section>
+    <section id="id15764157">
+      <title>Assessment</title>
+      <para id="id5790598">LEARNING OUTCOME 3: SCIENCE, SOCIETY AND THE ENVIRONMENTThe learner will be able to demonstrate an understanding of the interrelationships between science and technology, society and the environment.</para>
+      <para id="id16695884">Assessment Standard</para>
+      <para id="id16695888">We know this when the learner </para>
+      <para id="id14664118">3.2 understands the impact of Science and Technology.</para>
+    </section>
+  </content>
+</document>

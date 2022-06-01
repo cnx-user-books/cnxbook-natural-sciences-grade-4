@@ -1,0 +1,149 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>A simple food chain</title>
+  <metadata>
+  <md:content-id>m19918</md:content-id><md:title>A simple food chain</md:title>
+  <md:abstract/>
+  <md:uuid>f480bd39-f12f-442a-ad12-4c5a85ac52d4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id20698863">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id20698863">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id24423201">
+      <title>Grade 4</title>
+      <para id="para-id24423201">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id24283670">
+      <title>Life and way of living</title>
+      <para id="para-id24283670">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id23410056">
+      <title>Module 8</title>
+      <para id="para-id23410056">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id22733354">
+      <title>A simple food chain</title>
+      <para id="id22382067"/>
+      <para id="id14596404">To have an understanding of a simple food chain</para>
+      <para id="id24780825">All animals and plants need food to remain healthy and have enough energy. Plants have the unique ability to manufacture their own food. For this, they use sunlight, carbon dioxide from the air and water and minerals from the soil. </para>
+      <para id="id25833582">All living things need food manufactured by green plants. The different parts of the food chain are like the links of a chain: if one link is missing, the chain is of no use until it is fixed. Each part of the food chain is important for the existence of the ecosystem. </para>
+      <para id="id22151701">The following food chains are faulty. Correct them: </para>
+      <para id="id8509179">Maize, sun, farmer, egg, hen</para>
+      <table id="id8049757" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id25268887">Cow, boy, sun, grass, milk</para>
+      <table id="id17884776" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3535921">Lion, antelope, grass, sun</para>
+      <table id="id11590617" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id24461168">Raptor, sun, mouse, wheat</para>
+      <table id="id24252730" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22143148">Now make your own food chain</para>
+      <table id="id20718013" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22012981"/>
+    </section>
+    <section id="id23235000">
+      <title>Assessment</title>
+      <para id="id24289818">LEARNING OUTCOME 1: SCIENTIFIC INVESTIGATIONSThe learner will be able to act confidently on curiosity about natural phenomena, and to investigate relationships and solve problems in scientific, technological and environmental contexts.</para>
+      <para id="id21390426">Assessment Standard 1.3: The learner evaluates data and provides feedback on observations.</para>
+    </section>
+    <section id="id24126540">
+      <title>Memorandum</title>
+      <list id="id24581954" list-type="bulleted">
+        <item>Sun, maize, hen, egg, farmer</item>
+        <item>Sun, grass, cow, milk, boy</item>
+        <item>Sun, grass, antelope, lion</item>
+        <item>Sun, wheat, mouse, raptor/bird of prey</item>
+      </list>
+    </section>
+  </content>
+</document>
