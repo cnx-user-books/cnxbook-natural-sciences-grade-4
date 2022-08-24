@@ -1,3 +1,90 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11096</md:content-id>  <md:title>Natural Sciences Grade 4</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>373857ca-6979-4bcd-a4bb-feb41b2c429d</md:uuid>
-<md:slug>natural-sciences-grade-4</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1 </md:title>                                <col:content>                    <col:module document="m21193"/>                            <col:module document="m19912"/>                            <col:module document="m19913"/>                            <col:module document="m19914"/>                            <col:module document="m19915"/>                            <col:module document="m19916"/>                            <col:module document="m19917"/>                            <col:module document="m19918"/>                            <col:module document="m19919"/>                            <col:module document="m19920"/>                            <col:module document="m20222"/>                            <col:module document="m19921"/>                            <col:module document="m19923"/>                            <col:module document="m19924"/>                            <col:module document="m20225"/>                            <col:module document="m19925"/>                            <col:module document="m19926"/>                            <col:module document="m19927"/>                            <col:module document="m19929"/>                            <col:module document="m19931"/>                            <col:module document="m20229"/>                            <col:module document="m19932"/>                            <col:module document="m19933"/>                            <col:module document="m19946"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m20097"/>                            <col:module document="m20099"/>                            <col:module document="m20101"/>                            <col:module document="m20103"/>                            <col:module document="m20104"/>                            <col:module document="m20106"/>                            <col:module document="m20107"/>                            <col:module document="m20108"/>                            <col:module document="m20109"/>                            <col:module document="m20112"/>                            <col:module document="m20113"/>                            <col:module document="m20114"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m20189"/>                            <col:module document="m20116"/>                            <col:module document="m20214"/>                            <col:module document="m20117"/>                            <col:module document="m20200"/>                            <col:module document="m20217"/>                            <col:module document="m20120"/>                            <col:module document="m20210"/>                            <col:module document="m20121"/>                            <col:module document="m20123"/>                            <col:module document="m20134"/>                            <col:module document="m20130"/>                            <col:module document="m20133"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m20137"/>                            <col:module document="m20138"/>                            <col:module document="m20140"/>                            <col:module document="m20142"/>                            <col:module document="m20144"/>                            <col:module document="m20148"/>                            <col:module document="m20149"/>                            <col:module document="m20151"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11096</md:content-id>
+    <md:title>Natural Sciences Grade 4</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>373857ca-6979-4bcd-a4bb-feb41b2c429d</md:uuid>
+    <md:slug>natural-sciences-grade-4</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1 </md:title>
+      <col:content>
+        <col:module document="m21193"/>
+        <col:module document="m19912"/>
+        <col:module document="m19913"/>
+        <col:module document="m19914"/>
+        <col:module document="m19915"/>
+        <col:module document="m19916"/>
+        <col:module document="m19917"/>
+        <col:module document="m19918"/>
+        <col:module document="m19919"/>
+        <col:module document="m19920"/>
+        <col:module document="m20222"/>
+        <col:module document="m19921"/>
+        <col:module document="m19923"/>
+        <col:module document="m19924"/>
+        <col:module document="m20225"/>
+        <col:module document="m19925"/>
+        <col:module document="m19926"/>
+        <col:module document="m19927"/>
+        <col:module document="m19929"/>
+        <col:module document="m19931"/>
+        <col:module document="m20229"/>
+        <col:module document="m19932"/>
+        <col:module document="m19933"/>
+        <col:module document="m19946"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m20097"/>
+        <col:module document="m20099"/>
+        <col:module document="m20101"/>
+        <col:module document="m20103"/>
+        <col:module document="m20104"/>
+        <col:module document="m20106"/>
+        <col:module document="m20107"/>
+        <col:module document="m20108"/>
+        <col:module document="m20109"/>
+        <col:module document="m20112"/>
+        <col:module document="m20113"/>
+        <col:module document="m20114"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m20189"/>
+        <col:module document="m20116"/>
+        <col:module document="m20214"/>
+        <col:module document="m20117"/>
+        <col:module document="m20200"/>
+        <col:module document="m20217"/>
+        <col:module document="m20120"/>
+        <col:module document="m20210"/>
+        <col:module document="m20121"/>
+        <col:module document="m20123"/>
+        <col:module document="m20134"/>
+        <col:module document="m20130"/>
+        <col:module document="m20133"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m20137"/>
+        <col:module document="m20138"/>
+        <col:module document="m20140"/>
+        <col:module document="m20142"/>
+        <col:module document="m20144"/>
+        <col:module document="m20148"/>
+        <col:module document="m20149"/>
+        <col:module document="m20151"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
